@@ -91,6 +91,9 @@
     margin-top: 60px;
     font-size: 13px;
   }
+  .box-size{
+    width: 260px;
+  }
   .size-img{
     background-color: #ffff;
   }
