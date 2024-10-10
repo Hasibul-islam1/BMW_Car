@@ -40,3 +40,22 @@
     color:#221f1f;
     font-weight: 700;
   }
+  .card-text-color{
+    color: #ffff;
+    text-align: center;
+  }
+  .card-text-color a{
+    color: #cacaca;
+    font-size: 16px;
+  }
+  .card-text-color h3{
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing:2.75px;
+  }
+  .card-text-color h1{
+    font-size: 28px;
+    line-height: 37px;
+    letter-spacing: -0.1px;
+  }
+  
