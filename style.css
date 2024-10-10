@@ -91,3 +91,30 @@
     margin-top: 60px;
     font-size: 13px;
   }
+  .size-img{
+    background-color: #ffff;
+  }
+.size-img img{
+  width: 50px;
+}
+.size-img h3{
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: -0.1px;
+}
+.size-img p{
+  font-size: 16px;
+  line-height: 26px;
+  letter-spacing: 0.5px;
+}
+.page-link{
+  border: none;
+  color: #221f1f;
+  font-size: 18px;
+  font-weight: 500;
+  padding: 12px;
+}
+.page-link:hover{
+  color: #221f1f;
+}
