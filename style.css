@@ -118,3 +118,13 @@
 .page-link:hover{
   color: #221f1f;
 }
+.container a{
+  text-decoration: none;
+  font-size: 15px;
+  font-weight: 500;
+  color: #262626;
+  line-height: 24px;
+}
+.bx{
+  font-size: 30px;
+}
