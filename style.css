@@ -131,3 +131,13 @@
 .bx{
   font-size: 30px;
 }
+.bye-button{
+  background-image: linear-gradient(to bottom, #ff5898 0%, #ff136f 100%);
+    color: #ffff;
+    border: none;
+    font-weight: 500;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+    outline: none;
+}
